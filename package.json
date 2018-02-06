@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "api\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[F\u001b[B\u001b[F",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayed Naweed Rizvi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
