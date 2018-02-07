@@ -1,1 +1,4 @@
-Node API to for CRUD with MongoDB
+
+Simple "Hello World" application built with NodeJS to demonstrate Docker.
+
+Docker Image is built from the Dockerfile.
